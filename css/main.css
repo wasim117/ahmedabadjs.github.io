@@ -1,0 +1,13 @@
+body {
+  padding-top: 70px;
+}
+.jumbotron {
+  padding: 30px 15px 30px 30px;
+}
+@media screen and (min-width: 768px) {
+  .jumbotron h1,
+  .jumbotron .h1 {
+    font-size: 40px;
+	margin-top: 0px;
+  }
+}
